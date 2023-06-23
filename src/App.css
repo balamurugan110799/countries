@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  width: 1200px;
+}
+
+.box-shdow{
+  border-radius: 6px;
+  box-shadow: 0 5px 15px rgba(0,0,0,.075);
+}
+
+.ggggg{
+      -webkit-transform: translateY(103%) scaleY(1);
+      transform: translateY(103%) scaleY(1);
+}
